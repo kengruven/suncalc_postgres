@@ -1,0 +1,5 @@
+comment = 'Solar event calculations for Postgres'
+default_version = '0.0.1'
+module_pathname = '$libdir/suncalc_postgres'
+relocatable = true
+requires = ''
