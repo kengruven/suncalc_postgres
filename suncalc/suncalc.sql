@@ -1,3 +1,5 @@
+\echo Use "CREATE EXTENSION suncalc_postgres" to load this file. \quit
+
 CREATE OR REPLACE FUNCTION sc_fmod(
     dividend double precision,
     divisor double precision
